@@ -9,3 +9,4 @@ myenv/
 # Python cache files
 __pycache__/
 *.pyc
+**/migrations/*.py[cod]
